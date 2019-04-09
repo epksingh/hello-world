@@ -6,6 +6,6 @@ import (
 
 func main() {
 	var i int = 10
-	fmt.Println("Hello %d", i) 
+	fmt.Println("Hello World%d", i) 
 }
 
